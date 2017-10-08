@@ -1,0 +1,1 @@
+"./calibration.obj" "./conf_gpio.obj" "./gen_adsr.obj" "./gen_sine.obj" "./init.obj" "./irq_vectors.obj" "./main.obj" "./set_timer.obj" "./sysex.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
